@@ -5,4 +5,6 @@ This app will later be used to create an updated and more stable / efficient ver
 
 This project is kinda ugly, becuase they primary focus of this project was using javascript and node js to create an app running off of an express server with a database, but i plan to use this foundation later to hopefully create a more pretty eCommerceApp that is somewhat resembling the designer site i have in another repo.
 
-In order to run this application open the directory in node and type in "npm run dev" 
+this project taught me a lot about the different type of requests and what they are used for and how to use them giving me a better understanding on the backend, while not my main focus I belive having some knowledge on the backend will help me when creating bigger projects in the future. It also taught me the basics of node js and how to be resourceful using the node documentation for all of the differnt middlewares, and modules.
+
+In order to run this application open the directory in node and type in "npm run dev" and navigate to localhost:3000/
