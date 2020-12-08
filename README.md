@@ -8,3 +8,7 @@ This project is kinda ugly, becuase they primary focus of this project was using
 this project taught me a lot about the different type of requests and what they are used for and how to use them giving me a better understanding on the backend, while not my main focus I belive having some knowledge on the backend will help me when creating bigger projects in the future. It also taught me the basics of node js and how to be resourceful using the node documentation for all of the differnt middlewares, and modules.
 
 In order to run this application open the directory in node and type in "npm run dev" and navigate to localhost:3000/
+
+in order to use the admin functionality go to /signup and create an account while there is no sign out button to sign out just go to /signout and to sign back in using the same credentials navigate to /signin
+
+this project also taught me about the importance of encrypting data and how data is stored to begin with. opening my eyes to possible attacks and ways to prevent them.
